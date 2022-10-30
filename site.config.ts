@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '个人主页-须聪',
+  name: '个人主页',
   domain: 'www.xucong.com',
   author: '须聪',
 
